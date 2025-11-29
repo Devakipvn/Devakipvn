@@ -1,3 +1,6 @@
+
+<img src="./banner.svg" width="100%" />
+
 Hi there 👋, I'm PATCHIPULUSU VENKATA NAGA DEVAKI!
 
 🚀 About Me  
