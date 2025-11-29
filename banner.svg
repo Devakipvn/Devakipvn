@@ -94,10 +94,10 @@
       <text class="subtitle" y="14">MCA • Full-Stack Web Developer • Problem Solver</text>
       <g transform="translate(0,40)">
         <text x="0" y="0" class="subtitle">
-          I build interactive web apps with clean UI and robust backend logic.
+          I build interactive web apps with clean & Modern UI and robust backend logic.
         </text>
         <text x="0" y="22" class="subtitle">
-          Projects: Sentiment Analysis • Weather App • Scientific Calculator
+          Projects: CodeCanvas • Psychometric Test Web Application • Scientific Calculator
         </text>
       </g>
     </g>
@@ -175,3 +175,4 @@
            L1440 380 L0 380 Z"/>
 
 </svg>
+
