@@ -142,7 +142,7 @@
     <g clip-path="url(#photoClip)">
       <image class="photo" x="896" y="60" width="208" height="305"
              preserveAspectRatio="xMidYMid slice"
-             xlink:href="./assets/Profile.jpg" />
+             xlink:href="https://raw.githubusercontent.com/Devakipvn/Devakipvn/main/assets/Profile.jpg" />
     </g>
 
     <!-- ring centered at cx=1000 -->
@@ -161,3 +161,4 @@
   <path class="wave" d="M0 320 C180 260 420 360 720 320 C980 280 1160 360 1440 320 L1440 380 L0 380 Z"/>
 
 </svg>
+
