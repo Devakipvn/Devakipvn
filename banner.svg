@@ -139,12 +139,14 @@
     <rect x="840" y="44" rx="18" width="320" height="252" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.04)"/>
 
     <!-- circular image clip. image positioned so circle center = (896+104, 60+104) = (1000,164) -->
-    <image class="photo"
+    <g clip-path="url(#photoClip)">
+      <image class="photo"
        x="896" y="60" width="208" height="308"
        preserveAspectRatio="xMidYMid slice"
        href="https://raw.githubusercontent.com/Devakipvn/Devakipvn/main/assets/Profile.jpg"
        xlink:href="https://raw.githubusercontent.com/Devakipvn/Devakipvn/main/assets/Profile.jpg" />
     </g>
+
 
     <!-- ring centered at cx=1000 -->
     <circle cx="1000" cy="164" r="106" fill="none" stroke="rgba(125,211,252,0.14)" stroke-width="6"/>
