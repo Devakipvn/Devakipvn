@@ -49,6 +49,8 @@
     @keyframes blink { 50% { opacity:0 } 100% { opacity:1 } }
     @keyframes hideCursor { to { opacity:0 } }
 
+    /* skill pill text */
+    .pill-text { font-size:13px; font-weight:700; font-family: Arial, Helvetica, sans-serif; }
   </style>
 
   <!-- gradients -->
@@ -101,7 +103,7 @@
     </g>
 
     <!-- CTAs -->
-    <a xlink:href="https://github.com/Devakipvn" target="_blank">
+    <a xlink:href="https://github.com/Devakipvn?tab=repositories" target="_blank">
       <rect x="0" y="156" rx="8" width="160" height="36" class="cta-rect"/>
       <text x="24" y="182" class="cta-text">View Projects</text>
     </a>
@@ -111,26 +113,60 @@
       <text x="196" y="182" class="btn-text">Contact</text>
     </a>
 
-    <!-- skill chips -->
+    <!-- SKILL CHIPS: row 1 -->
     <g transform="translate(0,208)">
+      <!-- Python -->
       <rect x="0" y="0" rx="999" width="92" height="36" fill="#062433"/>
-      <text x="22" y="23" font-size="13" font-weight="700" fill="#7dd3fc">Python</text>
+      <text x="22" y="23" class="pill-text" fill="#7dd3fc">Python</text>
 
+      <!-- JavaScript -->
       <rect x="110" y="0" rx="999" width="120" height="36" fill="#062433"/>
-      <text x="132" y="23" font-size="13" font-weight="700" fill="#c7b3ff">JavaScript</text>
+      <text x="132" y="23" class="pill-text" fill="#c7b3ff">JavaScript</text>
 
+      <!-- React -->
       <rect x="240" y="0" rx="999" width="90" height="36" fill="#062433"/>
-      <text x="264" y="23" font-size="13" font-weight="700" fill="#7dd3fc">React</text>
-      
-      <rect x="110" y="0" rx="999" width="120" height="36" fill="#062433"/>
-      <text x="132" y="23" font-size="13" font-weight="700" fill="#c7b3ff">TypeScript</text>
+      <text x="264" y="23" class="pill-text" fill="#7dd3fc">React</text>
 
-      <rect x="346" y="0" rx="999" width="88" height="36" fill="#062433"/>
-      <text x="370" y="23" font-size="13" font-weight="700" fill="#7dd3fc">Flask</text>
-            
-      <rect x="110" y="0" rx="999" width="120" height="36" fill="#062433"/>
-      <text x="132" y="23" font-size="13" font-weight="700" fill="#c7b3ff">Java</text>
+      <!-- TypeScript -->
+      <rect x="342" y="0" rx="999" width="110" height="36" fill="#062433"/>
+      <text x="356" y="23" class="pill-text" fill="#c7b3ff">TypeScript</text>
+
+      <!-- Java -->
+      <rect x="462" y="0" rx="999" width="84" height="36" fill="#062433"/>
+      <text x="486" y="23" class="pill-text" fill="#c7b3ff">Java</text>
+
+      <!-- Flask -->
+      <rect x="560" y="0" rx="999" width="88" height="36" fill="#062433"/>
+      <text x="584" y="23" class="pill-text" fill="#7dd3fc">Flask</text>
     </g>
+
+    <!-- SKILL CHIPS: row 2 (below) -->
+    <g transform="translate(0,254)">
+      <!-- C -->
+      <rect x="0" y="0" rx="999" width="64" height="36" fill="#062433"/>
+      <text x="16" y="23" class="pill-text" fill="#c7b3ff">C</text>
+
+      <!-- Tailwind CSS -->
+      <rect x="86" y="0" rx="999" width="132" height="36" fill="#062433"/>
+      <text x="98" y="23" class="pill-text" fill="#7dd3fc">Tailwind CSS</text>
+
+      <!-- HTML -->
+      <rect x="230" y="0" rx="999" width="76" height="36" fill="#062433"/>
+      <text x="248" y="23" class="pill-text" fill="#7dd3fc">HTML</text>
+
+      <!-- CSS -->
+      <rect x="316" y="0" rx="999" width="64" height="36" fill="#062433"/>
+      <text x="332" y="23" class="pill-text" fill="#c7b3ff">CSS</text>
+
+      <!-- MySQL -->
+      <rect x="404" y="0" rx="999" width="98" height="36" fill="#062433"/>
+      <text x="424" y="23" class="pill-text" fill="#7dd3fc">MySQL</text>
+
+      <!-- PostgreSQL -->
+      <rect x="512" y="0" rx="999" width="136" height="36" fill="#062433"/>
+      <text x="532" y="23" class="pill-text" fill="#c7b3ff">PostgreSQL</text>
+    </g>
+
   </g>
 
   <!-- bottom wave -->
