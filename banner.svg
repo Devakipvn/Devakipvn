@@ -1,4 +1,4 @@
-<!-- Save this as banner.svg in your repo root (overwrite). Keep assets/Profile.jpg in the repo. -->
+<!-- Save this as banner.svg in your repo root -->
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      viewBox="0 0 1440 380" width="100%" height="380" preserveAspectRatio="xMidYMid slice">
@@ -22,10 +22,6 @@
     .blob { opacity:0.14; transform-origin:center; animation: float 6s ease-in-out infinite; }
     @keyframes float { 0% { transform:translateY(0)} 50% { transform:translateY(-8px) } 100% { transform:translateY(0) } }
 
-    /* image reveal */
-    .photo { transform-origin: 50% 50%; animation: revealImg 0.9s cubic-bezier(.2,.9,.2,1) both; }
-    @keyframes revealImg { from { transform:scale(.92); opacity:0 } to { transform:scale(1); opacity:1 } }
-
     /* CTA/buttons */
     .cta-rect { fill:#06b6d4; }
     .cta-text { fill:#021020; font-weight:700; font-size:13px; font-family: Arial, Helvetica, sans-serif; }
@@ -34,8 +30,7 @@
 
     .wave { fill:#021020; opacity:0.72; }
 
-    /* typing mask animation (explicit values) */
-    /* total typing duration: 2.4s, delay start: 0.35s */
+    /* typing mask animation */
     .revealMask {
       fill: url(#bggrad);
       transform-origin: left;
@@ -43,9 +38,7 @@
     }
     @keyframes revealMask { from { transform: translateX(0%) } to { transform: translateX(120%) } }
 
-    /* cursor: blink while typing then hide exactly when typing ends */
-    /* blinking starts at 0.55s (0.35 + 0.2) */
-    /* hideCursor starts at 2.75s (0.35 + 2.4) */
+    /* cursor blink then hide */
     .cursor {
       fill:#7dd3fc;
       opacity:1;
@@ -58,7 +51,7 @@
 
   </style>
 
-  <!-- defs -->
+  <!-- gradients -->
   <defs>
     <linearGradient id="bggrad" x1="0" x2="1">
       <stop offset="0%" stop-color="#061024"/>
@@ -69,100 +62,80 @@
       <stop offset="0%" stop-color="#7dd3fc"/>
       <stop offset="100%" stop-color="#7c3aed"/>
     </linearGradient>
-
-    <!-- circular clip for profile (moved right to cx=1000) -->
-    <clipPath id="photoClip">
-      <circle cx="1000" cy="164" r="106" />
-    </clipPath>
   </defs>
 
   <!-- background -->
   <rect width="1440" height="380" fill="url(#bggrad)"/>
 
-  <!-- decorative blobs -->
+  <!-- floating blobs -->
   <g>
     <circle class="blob" cx="110" cy="80" r="80" fill="#06b6d4"/>
     <circle class="blob" cx="1050" cy="60" r="72" fill="#7c3aed" style="animation-delay:1s"/>
     <circle class="blob" cx="980" cy="260" r="56" fill="#06b6d4"/>
   </g>
 
-  <!-- left content -->
+  <!-- LEFT CONTENT -->
   <g transform="translate(60,68)">
     <!-- heading -->
-    <text class="nameText" id="mainHeading">Hi, I’m <tspan font-weight="900">Patchipulusu Venkata Naga Devaki</tspan></text>
+    <text class="nameText" id="mainHeading">
+      Hi, I’m <tspan font-weight="900">Patchipulusu Venkata Naga Devaki</tspan>
+    </text>
 
-    <!-- sliding mask rectangle to create typing effect -->
-    <rect class="revealMask" x="0" y="-8" width="900" height="48" rx="0" />
+    <!-- typing mask -->
+    <rect class="revealMask" x="0" y="-8" width="900" height="48"/>
 
-    <!-- cursor that disappears after typing ends -->
+    <!-- cursor -->
     <rect class="cursor" x="870" y="-2" width="6" height="36" rx="2" />
 
-    <!-- subtitle below (spaced so no overlap) -->
+    <!-- subtitles -->
     <g transform="translate(0,64)">
       <text class="subtitle" y="14">MCA • Full-Stack Web Developer • Problem Solver</text>
-
       <g transform="translate(0,40)">
-        <text x="0" y="0" class="subtitle">I build interactive web apps with clean UI and robust backend logic.</text>
-        <text x="0" y="22" class="subtitle">Projects: Sentiment Analysis • Weather App • Scientific Calculator</text>
+        <text x="0" y="0" class="subtitle">
+          I build interactive web apps with clean UI and robust backend logic.
+        </text>
+        <text x="0" y="22" class="subtitle">
+          Projects: Sentiment Analysis • Weather App • Scientific Calculator
+        </text>
       </g>
     </g>
 
-    <!-- CTAs moved upward closer to projects -->
-    <a xlink:href="https://github.com/Devakipvn" target="_blank" rel="noopener">
+    <!-- CTAs -->
+    <a xlink:href="https://github.com/Devakipvn" target="_blank">
       <rect x="0" y="156" rx="8" width="160" height="36" class="cta-rect"/>
       <text x="24" y="182" class="cta-text">View Projects</text>
     </a>
 
-    <a xlink:href="mailto:devakipvn@gmail.com" target="_blank" rel="noopener">
+    <a xlink:href="mailto:devakipvn@gmail.com" target="_blank">
       <rect x="176" y="156" rx="8" width="110" height="36" class="btn-outline"/>
       <text x="196" y="182" class="btn-text">Contact</text>
     </a>
 
-    <!-- skill chips (slightly below CTAs) -->
+    <!-- skill chips -->
     <g transform="translate(0,208)">
       <rect x="0" y="0" rx="999" width="92" height="36" fill="#062433"/>
-      <text x="22" y="23" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#7dd3fc">Python</text>
+      <text x="22" y="23" font-size="13" font-weight="700" fill="#7dd3fc">Python</text>
 
       <rect x="110" y="0" rx="999" width="120" height="36" fill="#062433"/>
-      <text x="132" y="23" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#c7b3ff">JavaScript</text>
+      <text x="132" y="23" font-size="13" font-weight="700" fill="#c7b3ff">JavaScript</text>
 
       <rect x="240" y="0" rx="999" width="90" height="36" fill="#062433"/>
-      <text x="264" y="23" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#7dd3fc">React</text>
+      <text x="264" y="23" font-size="13" font-weight="700" fill="#7dd3fc">React</text>
+      
+      <rect x="110" y="0" rx="999" width="120" height="36" fill="#062433"/>
+      <text x="132" y="23" font-size="13" font-weight="700" fill="#c7b3ff">TypeScript</text>
 
       <rect x="346" y="0" rx="999" width="88" height="36" fill="#062433"/>
-      <text x="370" y="23" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#7dd3fc">Flask</text>
+      <text x="370" y="23" font-size="13" font-weight="700" fill="#7dd3fc">Flask</text>
+            
+      <rect x="110" y="0" rx="999" width="120" height="36" fill="#062433"/>
+      <text x="132" y="23" font-size="13" font-weight="700" fill="#c7b3ff">Java</text>
     </g>
-  </g>
-
-  <!-- right profile card moved right (rect x=840) -->
-  <g>
-    <rect x="840" y="44" rx="18" width="320" height="252" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.04)"/>
-
-    <!-- circular image clip. image positioned so circle center = (896+104, 60+104) = (1000,164) -->
-    <g clip-path="url(#photoClip)">
-      <image class="photo"
-       x="896" y="60" width="208" height="308"
-       preserveAspectRatio="xMidYMid slice"
-       href="https://raw.githubusercontent.com/Devakipvn/Devakipvn/main/assets/Profile.jpg"
-       xlink:href="https://raw.githubusercontent.com/Devakipvn/Devakipvn/main/assets/Profile.jpg" />
-    </g>
-
-
-    <!-- ring centered at cx=1000 -->
-    <circle cx="1000" cy="164" r="106" fill="none" stroke="rgba(125,211,252,0.14)" stroke-width="6"/>
-
-    <!-- fallback initials -->
-    <circle cx="1000" cy="164" r="104" fill="url(#namegrad)" opacity="0.06"/>
-
-
-    <!-- status pill adjusted under the new circle -->
-    <rect x="934" y="222" rx="12" width="156" height="32" fill="#071a24" opacity="0.95"/>
-    <text x="960" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#7dd3fc">Open for internships</text>
   </g>
 
   <!-- bottom wave -->
-  <path class="wave" d="M0 320 C180 260 420 360 720 320 C980 280 1160 360 1440 320 L1440 380 L0 380 Z"/>
+  <path class="wave"
+        d="M0 320 C180 260 420 360 720 320 C980 280 1160 360 1440 320 
+           L1440 380 L0 380 Z"/>
 
 </svg>
-
-
