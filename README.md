@@ -226,6 +226,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Devakipvn/Devakipvn/output/snake.svg" />
 </div>
-
+<br>
 <!-- 🌊 Animated Wave Footer -->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"> </p>
