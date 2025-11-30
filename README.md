@@ -1,127 +1,107 @@
+<!-- ✨ Animated Gradient Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=7B2FF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Patchipulusu+Venkata+Naga+Devaki!;MCA+Student+%7C+Full+Stack+Developer+%7C+India;I+Love+Building+Interactive+Web+Apps+🚀" alt="Typing SVG" />
+</div>
+
+
 <!-- Banner -->
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Devaki Banner">
 </p>
 
+<!-- Socials -->
+<p align="center">
+   <a href="mailto:devakipvn@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail"></a>
+   <a href="https://www.linkedin.com/in/pvndevaki"><img height="35" src="https://skillicons.dev/icons?i=linkedin"></a>
+   <a href="https://github.com/Devakipvn"><img height="35" src="https://skillicons.dev/icons?i=github"></a>
+</p>
+
+---
+
+## 🌈 **About Me **
 <div align="center">
-   <h1>Hi there, I'm <strong>Patchipulusu Venkata Naga Devaki</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <img src="https://streak-stats.demolab.com?user=Devakipvn&theme=radical&hide_border=true" height="165"/>
 </div>
 
-<p align="center">
-   <a href="mailto:devakipvn@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/gmail.svg"></a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/pvndevaki"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg"></a>&nbsp;&nbsp;
-   <a href="https://github.com/Devakipvn"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/github.svg"></a>&nbsp;&nbsp;
-</p>
+
+
+---
+
+## 🛠️ **Tech Stack (Floating Animated Icons)**
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MCA Student | Full Stack Developer | India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,c,react,flask,bootstrap,tailwind,mysql,postgres,git,github,vscode" />
 </div>
 
 ---
 
-## 🚀 About Me  
-I'm an MCA postgraduate student (Class of 2025) at **Sri Padmavati Mahila Visvavidyalayam, Tirupati**, passionate about building clean, interactive, and meaningful web applications.
-
-I love **Full-Stack Development**, **problem-solving**, and continuously learning new technologies to expand my skill set.
-
----
-
-## 🔧 Technologies & Tools
-
-### **Languages**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40">
-</p>
-
-### **Frameworks & Libraries**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tkinter/tkinter-original.svg" height="40">
-</p>
-
-### **Databases**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40">
-</p>
-
-### **Tools**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/terminal.svg" height="40">
-</p>
+## ⚡ **Tools I Use**
+<div align="center">
+  <img src="https://readme-components.vercel.app/api?component=terminal&text=VS+Code+%7C+Git+%7C+GitHub+%7C+Linux&width=500&height=60&fill=gradient&font=monospace" />
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 **Projects (Animated Section Divider)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
+</p>
 
 ### 🔹 **Sentiment Analysis (ML + NLP)**
-Analyzed hotel reviews using **Python, NLP, Machine Learning** (SpaCy, NLTK, Naive Bayes).
+Used **SpaCy, NLTK, Naive Bayes** to classify hotel reviews.
 
 ### 🔹 **Scientific Calculator**
-Built using **Python + Tkinter**, supporting trigonometry, log, exponent, and advanced math operations.
+Designed using **Python + Tkinter**, including trigonometric & advanced math functions.
 
 ### 🔹 **Interactive Weather App**
-Created using **HTML, CSS, JavaScript**, fetching real-time weather from OpenWeatherMap API.
+Built with **HTML, CSS, JavaScript**, using OpenWeatherMap API.
 
 ### 🔹 **Psychometric Test Application**
-A frontend-only app that provides personality test results without needing a database.
+Frontend-only personality test app with auto score interpretation.
 
 ---
 
-## 🏆 Experience
+## 🏆 **Experience**
 
 💼 **AI & ML Intern — Edunet Foundation**  
-• Built sentiment analysis ML model  
-• Worked with Python, NLP, Machine Learning, Pandas  
+✔ Built ML model for sentiment analysis  
+✔ Worked with NLP, SpaCy, NLTK, Pandas  
 
 💼 **Web Developer Intern — ApexPlanet Software Pvt Ltd**  
-• Built structured UI pages  
-• Applied HTML, CSS, JavaScript, React  
+✔ Designed UI pages  
+✔ Worked with HTML, CSS, JavaScript, React  
 
 💼 **Python Developer Intern — Kishore Educational Academy**  
-• Developed a scientific calculator using Tkinter  
-• Gained hands-on Python development experience  
+✔ Built scientific calculator using Tkinter  
+✔ Hands-on Python development  
 
 💼 **Web Development Trainee — Cognifyz Technologies**
 
 ---
 
-## 🌱 Currently Learning
+## 📚 **Currently Learning**
 - GeeksforGeeks **160-Day DSA Challenge**
-- Full-Stack Web Applications  
-- Deepening knowledge in JavaScript, React, and databases  
+- Advanced React  
+- Backend development  
+- Database optimization  
 
 ---
 
-## 📫 Connect with Me
-📧 Email: **devakipvn@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/pvndevaki**  
-🐙 GitHub: **https://github.com/Devakipvn**
+## 🎭 **Fun Fact**
+✨ I’m a **self-taught developer**  
+✨ I love building **interactive apps & modern UI**  
+✨ Coding + Creativity = My Happy Place 💜  
 
 ---
 
-## 🌟 Fun Fact  
-I'm a **self-taught web developer** who enjoys building interactive apps — from scientific calculators to weather apps.  
-Always excited to explore something new 🚀
+# ⚡ **Stay Awesome!** ⚡
 
----
+<!-- 🐍 SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Devakipvn/Devakipvn/output/snake.svg" />
+</div>
 
-
-<h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>
-
-![snake gif](https://raw.githubusercontent.com/Devakipvn/Devakipvn/output/snake.svg)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
-</p>
+<!-- 🌊 Animated Wave Footer -->
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"> </p>
