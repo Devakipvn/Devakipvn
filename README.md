@@ -117,7 +117,10 @@ Always excited to explore something new 🚀
 
 ---
 
+
 <h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>
+
+![snake gif](https://raw.githubusercontent.com/Devakipvn/Devakipvn/output/snake.svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
