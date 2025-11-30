@@ -197,10 +197,15 @@
 
 ## 🏆 **Experience** 
 
-**🔍 AI & ML Intern - Edunet Foundation** — Built a mini Sentiment Analysis model (SpaCy, NLTK).  
-**🎨 Web Developer Intern - ApexPlanet** — Responsive UI & React components.  
-**🧮 Python Developer Intern - Kishore** — Scientific Calculator (Tkinter).  
-**🚀 Web Dev Trainee - Cognifyz** — Frontend & APIs.
+**FullStack Developer - ProjectsPlace** — Working on end-to-end real-time web apps, implementing APIs, authentication, backend logic, dashboards, and developing responsive, high-performance UIs.
+
+**AI & ML Intern - Edunet Foundation** — Built a mini Sentiment Analysis model (SpaCy, NLTK).  
+
+**Web Developer Intern - ApexPlanet** — Responsive UI & React components.   
+
+**Web Dev Trainee - Cognifyz** — Frontend & APIs.
+
+**Python Developer Intern - Kishore Educational Academy** — Scientific Calculator (Tkinter). 
 
 ---
 
