@@ -20,7 +20,7 @@
 
 ## **About Me**
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=Devakipvn&theme=radical&hide_border=true" height="165"/>
+ <img src="https://streak-stats.demolab.com/?user=Devakipvn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=p" height="165"/>
 </p>
 
 
