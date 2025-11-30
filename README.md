@@ -67,7 +67,7 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,mysql" width="auto" />
       </td>
       <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
-        <h3 style="margin:0 0 6px;">✨ CodeCanvas – Online Code Editor</h3>
+        <h3 style="margin:0 0 6px;">🔹 CodeCanvas – Online Code Editor</h3>
          <p> Engineered a collaborative code editor with instant preview and multi-file project workspace.
          Built using <b>HTML, CSS, JavaScript, Tailwind CSS, Flask (Python), MySQL</b>.
         Added features like theme toggle, live preview, and responsive cross-device UI.</p>
@@ -82,7 +82,7 @@
         <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,prisma" width="auto" />
       </td>
       <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
-        <h3 style="margin:0 0 6px;">✨ JobSeekr – AI-Powered Job Platform</h3>
+        <h3 style="margin:0 0 6px;">🔹 JobSeekr – AI-Powered Job Platform</h3>
         <p> Built a full-stack job portal with secure <b>OAuth Login</b> and AI-powered resume assistance. Developed using <b>React.js, TypeScript, Node.js,                PostgreSQL, Prisma ORM . Designed modular UI components with responsive, modern UX and user dashboards.</p>
         </td>
     
@@ -96,7 +96,7 @@
       </td>
       <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
         <h3 style="margin:0 0 6px;">🔹 Sentiment Analysis – NLP</h3>
-        <p>– Built NLP model using <b>NLTK, SpaCy, Pandas</b> to classify reviews as positive, negative, or neutral.
+        <p> Built NLP model using <b>NLTK, SpaCy, Pandas</b> to classify reviews as positive, negative, or neutral.
         Produced business insights using opinion mining and text classification.<br>
       </td>
     </tr>
