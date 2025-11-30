@@ -16,7 +16,37 @@
    <a href="https://github.com/Devakipvn"><img height="35" src="https://skillicons.dev/icons?i=github"></a>
 </p>
 
+
+
+
 ---
+
+## 🌐 My Portfolio Website
+
+<img align="right" src="https://raw.githubusercontent.com/ELABDELLAOUI-HAJAR/ELABDELLAOUI-HAJAR/master/images/coding.gif" width="400" alt="Coding GIF" />
+
+### 👋 Welcome to my portfolio  
+I’m Devaki , an MCA student, fullStack developer, and someone who loves building clean, modern, interactive web applications.
+
+In my portfolio, you’ll find:
+- ✨ Real-world projects  
+- 💻 UI/UX rich web apps  
+- 🌐 Full-stack practice work  
+- 📚 My learning journey  
+
+This portfolio represents my skills, creativity, and the growth I’m proud of.
+
+### 👉 Visit my live portfolio
+
+<p align="left">
+  <a href="https://my-portfolio-two-omega-80.vercel.app/" target="_blank">
+    <img alt="Visit Portfolio" 
+         src="https://img.shields.io/badge/MY%20Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 
 ## 📊 My GitHub Stats
 <p align="center">
@@ -123,17 +153,18 @@
   </table>
 
   <!-- JobSeekr -->
-  <table width="88%" style="table-layout:fixed; margin:15px auto; background:#0d0d0d; border-radius:12px; padding:14px; border:1px solid #7B2FF7;">
-    <tr>
-      <td align="center" width="20%" style="vertical-align:middle;">
-        <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,prisma" width="auto" />
-      </td>
-      <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
-        <h3 style="margin:0 0 6px;">🔹 JobSeekr – AI-Powered Job Platform</h3>
-        <p> Built a full-stack job portal with secure <b>OAuth Login</b> and AI-powered resume assistance. Developed using <b>React.js, TypeScript, Node.js,                PostgreSQL, Prisma ORM . Designed modular UI components with responsive, modern UX and user dashboards.</p>
-        </td>
-    
-  </table>
+<table width="88%" style="table-layout:fixed; margin:15px auto; background:#0d0d0d; border-radius:12px; padding:14px; border:1px solid #7B2FF7;">
+  <tr>
+    <td align="center" width="20%" style="vertical-align:middle;">
+      <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,prisma" width="auto" />
+    </td>
+    <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
+      <h3 style="margin:0 0 6px;">🔹 JobSeekr – AI-Powered Job Platform</h3>
+      <p> Built a full-stack job portal with secure <b>OAuth Login</b> and AI-powered resume assistance. Developed using <b>React.js, TypeScript, Node.js, PostgreSQL, Prisma ORM</b>. Designed modular UI components with responsive, modern UX and user dashboards.</p>
+    </td>
+  </tr>
+</table>
+
 
   <!-- Sentiment Analysis -->
   <table width="88%" style="table-layout:fixed; margin:15px auto; background:#0d0d0d; border-radius:12px; padding:14px; border:1px solid #7B2FF7;">
