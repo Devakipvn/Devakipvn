@@ -11,8 +11,8 @@
 
 <!-- Socials -->
 <p align="center">
-   <a href="mailto:devakipvn@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail"></a>
-   <a href="https://www.linkedin.com/in/pvndevaki"><img height="35" src="https://skillicons.dev/icons?i=linkedin"></a>
+   <a href="mailto:devakipvn@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail"></a> &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/in/pvndevaki"><img height="35" src="https://skillicons.dev/icons?i=linkedin"></a> &nbsp; &nbsp;
    <a href="https://github.com/Devakipvn"><img height="35" src="https://skillicons.dev/icons?i=github"></a>
 </p>
 
