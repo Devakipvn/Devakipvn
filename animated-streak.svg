@@ -1,0 +1,23 @@
+<!-- animated-streak-css.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="165" viewBox="0 0 720 165" preserveAspectRatio="xMidYMid meet">
+  <style type="text/css"><![CDATA[
+    @keyframes slide { from { transform: translateX(-280px); } to { transform: translateX(720px); } }
+    .shimmer { animation: slide 2.8s linear infinite; transform-origin: 0 0; }
+  ]]></style>
+
+  <defs>
+    <clipPath id="clip"><rect width="720" height="165" rx="6" ry="6"/></clipPath>
+    <linearGradient id="shimmerGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="50%" stop-color="white" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <image href="https://streak-stats.demolab.com?user=Devakipvn&amp;theme=radical&amp;hide_border=true"
+         x="0" y="0" width="720" height="165" clip-path="url(#clip)" preserveAspectRatio="xMidYMid slice"/>
+  <!-- animate using CSS class -->
+  <g clip-path="url(#clip)">
+    <rect class="shimmer" x="-280" y="0" width="280" height="165" fill="url(#shimmerGrad)"/>
+  </g>
+</svg>
