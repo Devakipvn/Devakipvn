@@ -18,36 +18,83 @@
 
 ---
 
-## **About Me**
+## 📊 My GitHub Stats
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=Devakipvn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=p" height="165"/>
+  <!-- Streak Stats -->
+  <img height="165" src="https://streak-stats.demolab.com?user=Devakipvn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=p" />  &nbsp; &nbsp;
+
+  <!-- Languages -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devakipvn&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=38bdf8&text_color=ffffff" />
 </p>
+
 
 ---
 
-## 🛠️ **Tech Stack**
-
-<div align="center">
+## 🛠️ Tech Skills
+<div align = "center">
   
-  <h3>🎨 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
 
-  <h3>🧠 Backend</h3>
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
 
-  <h3>🗄️ Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+### 🧠 Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white">
+</p>
 
-  <h3>⚙️ Tools I Use </h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,windows" />
 
-  <h3>📚 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
 
-  <h3>🧩 Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,flask,nodejs" />
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</p>
+
+
+
+### 📚 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+
+
+
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
 
 </div>
+
 
 ---
 
@@ -145,6 +192,8 @@
    
    
 <br />
+
+---
 
 ## 🏆 **Experience** 
 
