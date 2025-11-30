@@ -18,48 +18,119 @@
 
 ---
 
-## 🌈 **About Me **
-<div align="center">
-  
+## 🌈 **About Me**
+<div align="center"> 
   <img src="https://streak-stats.demolab.com?user=Devakipvn&theme=radical&hide_border=true" height="165"/>
 </div>
 
-
-
 ---
 
-## 🛠️ **Tech Stack (Floating Animated Icons)**
+  <h2>🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,c,react,flask,bootstrap,tailwind,mysql,postgres,git,github,vscode" />
+  
+  <h3>🎨 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+
+  <h3>🧠 Backend</h3>
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
+
+  <h3>🗄️ Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+  <h3>⚙️ Tools I Use </h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,windows" />
+
+  <h3>📚 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
+
+  <h3>🧩 Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,flask,nodejs" />
+
 </div>
 
 ---
 
-## ⚡ **Tools I Use**
-<div align="center">
-  <img src="https://readme-components.vercel.app/api?component=terminal&text=VS+Code+%7C+Git+%7C+GitHub+%7C+Linux&width=500&height=60&fill=gradient&font=monospace" />
-</div>
 
----
-
-## 🚀 **Projects (Animated Section Divider)**
+## 🚀 **Projects**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 </p>
 
-### 🔹 **Sentiment Analysis (ML + NLP)**
-Used **SpaCy, NLTK, Naive Bayes** to classify hotel reviews.
+<div align="center">
 
-### 🔹 **Scientific Calculator**
-Designed using **Python + Tkinter**, including trigonometric & advanced math functions.
+  <!-- CodeCanvas -->
+  <table width="88%" style="table-layout:fixed; margin:15px auto; background:#0d0d0d; border-radius:12px; padding:14px; border:1px solid #7B2FF7;">
+    <tr>
+      <td align="center" width="20%" style="vertical-align:middle;">
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,mysql" width="auto" />
+      </td>
+      <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
+        <h3 style="margin:0 0 6px;">✨ CodeCanvas – Online Code Editor</h3>
+         <p> Engineered a collaborative code editor with instant preview and multi-file project workspace.
+         Built using <b>HTML, CSS, JavaScript, Tailwind CSS, Flask (Python), MySQL</b>.
+        Added features like theme toggle, live preview, and responsive cross-device UI.</p>
+      </td>
+    </tr>
+  </table>
 
-### 🔹 **Interactive Weather App**
-Built with **HTML, CSS, JavaScript**, using OpenWeatherMap API.
+  <!-- JobSeekr -->
+  <table width="88%" style="table-layout:fixed; margin:15px auto; background:#0d0d0d; border-radius:12px; padding:14px; border:1px solid #7B2FF7;">
+    <tr>
+      <td align="center" width="20%" style="vertical-align:middle;">
+        <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,prisma" width="auto" />
+      </td>
+      <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
+        <h3 style="margin:0 0 6px;">✨ JobSeekr – AI-Powered Job Platform</h3>
+        <p> Built a full-stack job portal with secure <b>OAuth Login</b> and AI-powered resume assistance. Developed using <b>React.js, TypeScript, Node.js,                PostgreSQL, Prisma ORM . Designed modular UI components with responsive, modern UX and user dashboards.</p>
+        </td>
+    
+  </table>
 
-### 🔹 **Psychometric Test Application**
-Frontend-only personality test app with auto score interpretation.
+  <!-- Sentiment Analysis -->
+  <table width="88%" style="table-layout:fixed; margin:15px auto; background:#0d0d0d; border-radius:12px; padding:14px; border:1px solid #7B2FF7;">
+    <tr>
+      <td align="center" width="20%" style="vertical-align:middle;">
+        <img src="https://skillicons.dev/icons?i=python" width="65" />
+      </td>
+      <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
+        <h3 style="margin:0 0 6px;">🔹 Sentiment Analysis – NLP</h3>
+        <p>– Built NLP model using <b>NLTK, SpaCy, Pandas</b> to classify reviews as positive, negative, or neutral.
+        Produced business insights using opinion mining and text classification.<br>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Scientific Calculator -->
+  <table width="88%" style="table-layout:fixed; margin:15px auto; background:#0d0d0d; border-radius:12px; padding:14px; border:1px solid #7B2FF7;">
+    <tr>
+      <td align="center" width="20%" style="vertical-align:middle;">
+        <img src="https://skillicons.dev/icons?i=python" width="65" />
+      </td>
+      <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
+        <h3 style="margin:0 0 6px;">🔹 Scientific Calculator</h3>
+        <p> Developed using <b>Python + Tkinter</b> with advanced features like trigonometric functions,
+        logarithms, factorial, square roots, and error handling.</p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Psychometric Test -->
+  <table width="88%" style="table-layout:fixed; margin:15px auto; background:#0d0d0d; border-radius:12px; padding:14px; border:1px solid #7B2FF7;">
+    <tr>
+      <td align="center" width="20%" style="vertical-align:middle;">
+         <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" width="auto" />
+      </td>
+      <td style="vertical-align:middle; width:80%; min-height:110px; overflow:hidden; text-align:left;">
+        <h3 style="margin:0 0 6px;">🔹 Psychometric Test</h3>
+        <p> Built a frontend-only personality evaluation test using <b>HTML, CSS, JavaScript</b>.
+        Includes automated scoring and personalized resource/roadmap suggestions.</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
