@@ -20,8 +20,9 @@
 
 ## **About Me**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devakipvn/Devakipvn/main/animated-streak.svg" width="720" />
+ <img src="https://streak-stats.demolab.com?user=Devakipvn&theme=radical&hide_border=true" height="165"/>
 </p>
+
 
 
 ---
