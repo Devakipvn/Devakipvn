@@ -51,7 +51,8 @@ This portfolio represents my skills, creativity, and the growth I’m proud of.
 ## 📊 My GitHub Stats
 <p align="center">
   <!-- Streak Stats -->
-  <img height="165" src="https://streak-stats.demolab.com?user=Devakipvn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=p" />  &nbsp; &nbsp;
+<img height="165" src="https://streak-stats.demolab.com?user=Devakipvn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=svg" />
+  &nbsp; &nbsp;
 
   <!-- Languages -->
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devakipvn&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=38bdf8&text_color=ffffff" />
