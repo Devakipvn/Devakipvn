@@ -1,6 +1,6 @@
 <!-- ✨ Animated Gradient Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=7B2FF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Patchipulusu+Venkata+Naga+Devaki!;MCA+Student+%7C+Full+Stack+Developer+%7C+India;I+Love+Building+Interactive+Web+Apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=7B2FF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Patchipulusu+Venkata+Naga+Devaki!;MCA+Student+%7C+Full+Stack+Developer+%7C+India;I+Love+Building+Interactive+Web+Apps" alt="Typing SVG" />
 </div>
 
 
@@ -23,11 +23,9 @@
  <img src="https://streak-stats.demolab.com/?user=Devakipvn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=p" height="165"/>
 </p>
 
-
-
 ---
 
-  <h2>🛠️ Tech Stack</h2>
+## 🛠️ **Tech Stack**
 
 <div align="center">
   
@@ -135,27 +133,30 @@
 </div>
 
 ---
+ ## What I do
 
-## 🏆 **Experience**
 
-💼 **AI & ML Intern — Edunet Foundation**  
-✔ Built ML model for sentiment analysis  
-✔ Worked with NLP, SpaCy, NLTK, Pandas  
+<br />
 
-💼 **Web Developer Intern — ApexPlanet Software Pvt Ltd**  
-✔ Designed UI pages  
-✔ Worked with HTML, CSS, JavaScript, React  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="350" />
+</p>
 
-💼 **Python Developer Intern — Kishore Educational Academy**  
-✔ Built scientific calculator using Tkinter  
-✔ Hands-on Python development  
+   
+   
+<br />
 
-💼 **Web Development Trainee — Cognifyz Technologies**
+## 🏆 **Experience** 
+
+**🔍 AI & ML Intern - Edunet Foundation** — Built a mini Sentiment Analysis model (SpaCy, NLTK).  
+**🎨 Web Developer Intern - ApexPlanet** — Responsive UI & React components.  
+**🧮 Python Developer Intern - Kishore** — Scientific Calculator (Tkinter).  
+**🚀 Web Dev Trainee - Cognifyz** — Frontend & APIs.
 
 ---
 
 ## 📚 **Currently Learning**
-- GeeksforGeeks **160-Day DSA Challenge**
+- ServiceNow 
 - Advanced React  
 - Backend development  
 - Database optimization  
@@ -163,13 +164,14 @@
 ---
 
 ## 🎭 **Fun Fact**
-✨ I’m a **self-taught developer**  
-✨ I love building **interactive apps & modern UI**  
-✨ Coding + Creativity = My Happy Place 💜  
+- I’m a **self-taught developer**  
+- I love building **interactive apps & modern UI**  
+- Coding + Creativity = My Happy Place   
 
 ---
-
-# ⚡ **Stay Awesome!** ⚡
+<div align="center">
+    <h1> Stay Awesome! </h1>
+</div>
 
 <!-- 🐍 SNAKE ANIMATION -->
 <div align="center">
