@@ -50,24 +50,9 @@ This portfolio represents my skills, creativity, and the growth I’m proud of.
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <!-- Streak Stats -->
-  <img height="165"
-       src="https://streak-stats.demolab.com/?user=Devakipvn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-  &nbsp; &nbsp;
-
-  <!-- Languages -->
-  <img height="165"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devakipvn&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=38bdf8&text_color=ffffff" />
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Devakipvn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />&nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devakipvn&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=38bdf8&text_color=ffffff" />
 </p>
-
-
-<!-- optional: static fallback shown below the streak link if SVG blocked -->
-<p align="center">
-  <a href="https://streak-stats.demolab.com/api?user=Devakipvn">
-    <img height="20" alt="streak fallback" src="https://streak-stats.demolab.com/api?user=Devakipvn&type=png" />
-  </a>
-</p>
-
 
 
 ---
