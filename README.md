@@ -260,5 +260,8 @@ This portfolio represents my skills, creativity, and the growth I’m proud of.
   <img src="https://raw.githubusercontent.com/Devakipvn/Devakipvn/output/snake.svg" />
 </div>
 <br>
-<!-- 🌊 Animated Wave Footer -->
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"> </p>
+<!-- 🌄 Full-Width Animated Footer GIF -->
+<p align="center">
+  <img src="https://miro.medium.com/v2/0*fU59STvITn9m-TVe.gif" width="100%" height="180px" />
+</p>
+
