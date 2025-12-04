@@ -17,8 +17,6 @@
 </p>
 
 
-
-
 ---
 
 ## 🌐 My Portfolio Website
@@ -82,10 +80,7 @@ This portfolio represents my skills, creativity, and the growth I’m proud of.
 
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+<p> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"> </p>
 
 
 
